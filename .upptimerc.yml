@@ -4,7 +4,7 @@ repo: doclingo_upptime # The name of this repository
 
 sites:
   - name: Doclingo
-    url: https://doclingo.ai
+    url: https://doclingo.ai/en/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
