@@ -1,7 +1,7 @@
 [
   {
     "name": "Doclingo",
-    "url": "https://doclingo.ai",
+    "url": "https://doclingo.ai/en/",
     "icon": "https://icons.duckduckgo.com/ip3/doclingo.ai.ico",
     "slug": "doclingo",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1237,
-    "timeWeek": 1237,
-    "timeMonth": 1237,
-    "timeYear": 1237,
+    "time": 1151,
+    "timeDay": 1151,
+    "timeWeek": 1151,
+    "timeMonth": 1151,
+    "timeYear": 1151,
     "dailyMinutesDown": {}
   }
 ]
